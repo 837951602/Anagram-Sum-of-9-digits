@@ -1,5 +1,6 @@
 Anagram Sum of 10 Digits is computed. 76.9GB after general compression. 
 Better compressing solution may help. Some samples provided to test your compressing.
+Alternatively, if a generator is fast enough, then just generate when needed
 
 There're 30 694 477 548 solutions. Following table shows count for each beginning of A (smaller added number):
 
