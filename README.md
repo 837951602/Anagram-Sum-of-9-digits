@@ -4,6 +4,8 @@ All A + B = C, where A, B and C are anagram. A < B.
 
 Ordered by A then B, increasing.
 
+Up to 10 digits is also listed, but file is too large. See [10.summary](https://github.com/837951602/Anagram-Sum-of-9-digits/blob/master/10.summary.txt) for more information.
+
 Starting points of 8:
 
     x00 10000089 + 80000019 = 90000108
